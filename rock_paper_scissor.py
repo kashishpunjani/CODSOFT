@@ -1,13 +1,5 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      kashi
-#
-# Created:     29-09-2023
-# Copyright:   (c) kashi 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#.................................... rock paper scissor game ......................................
+
 
 import random
 print('Rock beats scissors, scissors beat paper, and paper beats rock, win score  = 2, loose score  = 0, tie score = 1')
