@@ -1,16 +1,5 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      kashi
-#
-# Created:     29-09-2023
-# Copyright:   (c) kashi 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 
-
-# final task of random generated password
+#................... Password Generator .........................
 import string,secrets,random,array
 #new..........................
 MAX_lEN = int(input('enter the desired length of the password : '))
