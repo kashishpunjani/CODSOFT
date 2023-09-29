@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      kashi
-#
-# Created:     29-09-2023
-# Copyright:   (c) kashi 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#.....................Quiz Game .......................................
 
 Question = ('1. who is founder of python? : ',
             '2. python was released in which year? :',
