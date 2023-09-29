@@ -1,15 +1,6 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      kashi
-#
-# Created:     29-09-2023
-# Copyright:   (c) kashi 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#...................to do list application G.U.I based application ....................................
 
-#................................to-do-list................................
+
 
 from tkinter import *
 import tkinter.messagebox
